@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 </details>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18&show_icons=true&theme=algolia)](https://github.com/klanso18/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18-s&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=klanso18-s&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=klanso18&show_icons=true&theme=radical&count_private=true)
