@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <details>
     <summary>
         CV détaillé<br>
-        hello
     </summary>
+    Hello
 </details>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18&show_icons=true&theme=algolia)](https://github.com/klanso18/github-readme-stats)<br>
