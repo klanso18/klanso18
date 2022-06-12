@@ -14,6 +14,7 @@ Ma passion pour le développement web rythme mon quotidien depuis un an.
 Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un contrat de professionnalisation d'un an qui débutera en septembre 2022.
 
 ### 👉 Compétences
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
 
 <details>
     <summary>
