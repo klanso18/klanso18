@@ -30,6 +30,6 @@ Here are some ideas to get you started:
     </summary>
 </details>
 
-[![klanso18's GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18)](https://github.com/klanso18/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18)](https://github.com/klanso18/github-readme-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
 ![](https://github-readme-stats.vercel.app/api?username=philippart-s&show_icons=true&theme=radical&count_private=true)
