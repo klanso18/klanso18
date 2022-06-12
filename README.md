@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔍 A la recherche d'une alternance en contrat de professionnalisation. 
+🔍 A la recherche d'une alternance en contrat de professionnalisation.<br> 
 🎓 Concepteur-Développeur d'application.
 🚀 Décollage prévu en septembre 2022, pour une durée de 12 mois. 
 🔄 Rythme : 3 semaines en entreprise / 1 semaine en formation. 
