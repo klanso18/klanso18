@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18&show_icons=true&theme=algolia)](https://github.com/klanso18/github-readme-stats)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18&theme=algolia&hide_langs_below=8)<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=klanso18&repo=github-readme-stats)](https://github.com/klanso18/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
