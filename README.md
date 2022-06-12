@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 🌍 Zone de recherche : Bordeaux et ses environs.<br>
 🔧 Stack enseignée : React - NodeJS - React Native - Flutter - Typescript - Docker<br>
 
-<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=[linkedin](https://www.linkedin.com/in/kevin-lansot/)">
-
 <details>
     <summary>
         CV détaillé
@@ -31,5 +29,5 @@ Here are some ideas to get you started:
 </details>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18)](https://github.com/klanso18/github-readme-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=philippart-s&theme=radical&hide_langs_below=8)
-![](https://github-readme-stats.vercel.app/api?username=philippart-s&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18-s&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=klanso18-s&show_icons=true&theme=radical&count_private=true)
