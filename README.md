@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <details>
     <summary>
         CV détaillé
+        hello
     </summary>
 </details>
 
