@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌍 Zone de recherche : Bordeaux et ses environs.<br>
 🔧 Stack enseignée : React - NodeJS - React Native - Flutter - Typescript - Docker<br>
 
-<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=linkedin">
+<img src="https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=[linkedin](https://www.linkedin.com/in/kevin-lansot/)">
 
 <details>
     <summary>
