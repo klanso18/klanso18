@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 🌍 Zone de recherche : Bordeaux et ses environs.<br>
 🔧 Stack enseignée : React - NodeJS - React Native - Flutter - Typescript - Docker<br>
 
-##👉 Compétences
+## 👉 Compétences
 
 <details>
     <summary>
