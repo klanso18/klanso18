@@ -29,6 +29,5 @@ Here are some ideas to get you started:
 </details>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=klanso18&show_icons=true&theme=algolia)](https://github.com/klanso18/github-readme-stats)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18&theme=algolia&hide_langs_below=8)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18&layout=compact&theme=algolia&hide_langs_below=8)<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WildCodeSchool&repo=2022-03-php-remotefr-p2-serial-series)](https://github.com/WildCodeSchool/2022-03-php-remotefr-p2-serial-series)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=klanso18)](https://github.com/klanso18/github-readme-stats)
