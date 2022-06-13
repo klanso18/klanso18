@@ -14,6 +14,7 @@ Ma passion pour le développement web rythme mon quotidien depuis un an.
 Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un contrat de professionnalisation d'un an qui débutera en septembre 2022.
 
 <img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/kevin-lansot/" />
+<a href="https://www.linkedin.com/in/kevin-lansot/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 👉 Compétences
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)" />
