@@ -13,8 +13,10 @@ Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets 
 Ma passion pour le développement web rythme mon quotidien depuis un an. 
 Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un contrat de professionnalisation d'un an qui débutera en septembre 2022.
 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 ### 👉 Compétences
-<img src="{https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)}" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)" />
 
 <details>
     <summary>
