@@ -16,7 +16,8 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
 <a href="https://www.linkedin.com/in/kevin-lansot/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### 👉 Compétences
-<a href="https://www.linkedin.com/in/kevin-lansot/"><img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)"></a>
+<a href="https://github.com/klanso18"><img src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)"></a>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <details>
     <summary>
