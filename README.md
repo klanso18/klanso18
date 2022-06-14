@@ -17,7 +17,7 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
         Mon CV<br>
     </summary>
     
-## MES PROJETS WEB
+## PROJETS WEB
     
 ### 2022 – Aujourd'hui | Développeur Web | Wild Code School
 
@@ -38,7 +38,7 @@ Mars 2022 - 2 semaines / 3 développeurs / Wild Code School<br>
 Création du CV de Darth Vader, mettant en valeur sa force et son côté le plus obscur.<br> 
 Stack : PHP | HTML 5 | CSS 3<br> 
 
-## MA DERNIERE EXPERIENCE PRO 
+## DERNIERE EXPERIENCE PRO 
     
 ### 2014 – 2022 | Responsable de rayon - Relai informatique magasin | Decathlon SA
     
@@ -49,7 +49,7 @@ Recrutement, formation et animation de l'équipe de vente.<br>
 Formation des équipes sur les outils digitaux (devices et applications).<br>
 Support informatique en magasin.<br>
 
-## MA FORMATION
+## FORMATION
     
 ### 2022 – Développeur Web – Wild Code School Remote
 ### 2011 – Master Marketing & Communication – INSEEC Bordeaux
