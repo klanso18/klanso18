@@ -1,9 +1,9 @@
 ### Whoami 👨
 
 Kévin ! 
-35 ans, passionné de sport.. et de code !
-Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets retail et marketing produit, avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur. 
-Ma passion pour le développement web rythme mon quotidien depuis un an. 
+35 ans, passionné de sport.. et de code !<br>
+Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets retail et marketing produit, avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur.<br>
+Ma passion pour le développement web rythme mon quotidien depuis un an.<br>
 Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un stage de 6 mois à partir du 1er Août ou un contrat de professionnalisation d'un an qui débutera au mois de septembre.<br>
 
 🔍 A la recherche d'un stage ou d'une alternance en contrat de professionnalisation.<br>
@@ -16,7 +16,7 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
     <summary>
         Mon CV<br>
     </summary>
-    Hello
+    ## PROJETS ET EXPERIENCES
 </details>
 
 <a href="https://www.linkedin.com/in/kevin-lansot/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
