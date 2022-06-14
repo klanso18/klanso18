@@ -21,17 +21,17 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
     
 ### 2022 – Aujourd'hui | Développeur Web | Wild Code School
 
-Hackathon 1 : Potes'agers
-Mai 2022 - 24 heures / 5 développeurs / Wild Code School
-Construction d'une application web de petites annonces dans l'univers du potager.
-CRUD en MySQL - Structure MVC
-Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap 
+Hackathon 1 : Potes'agers<br>
+Mai 2022 - 24 heures / 5 développeurs / Wild Code School<br>
+Construction d'une application web de petites annonces dans l'univers du potager.<br>
+CRUD en MySQL - Structure MVC<br>
+Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap<br>
 
-Projet 2 : SerialSeries 
-Avril 2022 - 4 semaines / 4 développeurs / Wild Code School
-En méthodes agiles, construction d'une application web regroupant et présentant toutes les meilleures séries du moment. 
-CRUD en MySQL - Structure MVC
-Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap
+Projet 2 : SerialSeries<br> 
+Avril 2022 - 4 semaines / 4 développeurs / Wild Code School<br>
+En méthodes agiles, construction d'une application web regroupant et présentant toutes les meilleures séries du moment.<br> 
+CRUD en MySQL - Structure MVC<br>
+Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap<br>
     
 Projet 1 : CV Darth Vader
 Mars 2022 - 2 semaines / 3 développeurs / Wild Code School
