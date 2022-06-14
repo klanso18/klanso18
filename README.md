@@ -1,4 +1,4 @@
-### Whoami 👨
+### 👨 Whoami 
 
 Kévin ! 
 35 ans, passionné de sport.. et de code !<br>
