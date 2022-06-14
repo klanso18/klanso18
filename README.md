@@ -3,7 +3,7 @@
 Kévin ! 
 35 ans, passionné de sport.. et de code !<br>
 Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets retail et marketing produit, avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur.<br>
-Ma passion pour le développement web rythme maintenant mon quotidien.<br>
+Ma passion pour le développement web rythme mon quotidien.<br>
 Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un stage de 6 mois à partir du 1er Août ou un contrat de professionnalisation d'un an qui débutera au mois de septembre.<br>
 
 🔍 A la recherche d'un stage ou d'une alternance en contrat de professionnalisation.<br>
