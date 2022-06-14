@@ -17,7 +17,7 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
         Mon CV<br>
     </summary>
     
-## EXPERIENCE PROFESSIONNELLE
+## MES PROJETS WEB
     
 ### 2022 – Aujourd'hui | Développeur Web | Wild Code School
 
@@ -33,36 +33,34 @@ En méthodes agiles, construction d'une application web regroupant et présentan
 CRUD en MySQL - Structure MVC<br>
 Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap<br>
     
-Projet 1 : CV Darth Vader
-Mars 2022 - 2 semaines / 3 développeurs / Wild Code School
-Création du CV de Darth Vader, mettant en valeur sa force et son côté le plus obscur. 
-Stack : PHP | HTML 5 | CSS 3 
+Projet 1 : CV Darth Vader<br>
+Mars 2022 - 2 semaines / 3 développeurs / Wild Code School<br>
+Création du CV de Darth Vader, mettant en valeur sa force et son côté le plus obscur.<br> 
+Stack : PHP | HTML 5 | CSS 3<br> 
 
-### 2006 – 2008 | Ingénieur logiciel Java / JEE | Apside TOP
-Expert JEE en prestation chez Coface Services pour mise en place d'applications Web et montée en compétence des personnels internes. Rôle de tech lead au sein des équipes.
+## MA DERNIERE EXPERIENCE PRO 
+    
+### 2014 – 2022 | Responsable de rayon - Relai informatique magasin | Decathlon SA
+    
+Ecriture des politiques commerciales par sport.<br>
+Pilotage économique (CA, marge, heures).<br>
+Choix de gammes, construction plan de masse et organisation des implantations.<br> 
+Recrutement, formation et animation de l'équipe de vente.<br> 
+Formation des équipes sur les outils digitaux (devices et applications).<br>
+Support informatique en magasin.<br>
 
-###  2004 – 2006 | Chef de projet technique | Delta Informatique
-Mise en place de sites web (secteur banque et assurances) en JEE (déployés sur Weblogic) comme développeur expert puis chef de projets techniques (spécifications techniques,développement et mise en place chez les clients) sur les mêmes technologies.
-
-### 2002 – 2004 | Ingénieur Java / JEE | Prima Solutions
-Développement de front end et back end dans le secteur assurance et pour le site assurland.com. 
-Accompagnement clientèle pour le déploiement de solutions JEE / Weblogic.
-
-## FORMATION
-### 1999 – Ingénieur en Informatique – Polytech Tours
-Ecole d’ingénieur en informatique (développement).
-
-### 1996 – DUT Informatique – Université d’Orléans - Tours
-Diplôme d’informatique de gestion.
-
-### 1993 – BAC D – Lycée Claude de France à Romorantin
-Filière générale option biologie.
-
+## MA FORMATION
+    
+### 2022 – Développeur Web – Wild Code School Remote
+### 2011 – Master Marketing & Communication – INSEEC Bordeaux
+### 2009 - Licence pro Adjoint de direction PME-PMI - UPPA Bayonnne
+### 2008 - BTS Management des Unités Commerciales
+    
 ### LANGUES
 🇫🇷 🇬🇧
 
 ### LOISIRS
-Badminton, Running, Cinéma, Concerts
+Surf, Basket, Montage vidéo
 </details>
 
 <a href="https://www.linkedin.com/in/kevin-lansot/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
