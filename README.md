@@ -16,7 +16,9 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
     <summary>
         Mon CV<br>
     </summary>
+    
 ## EXPERIENCE PROFESSIONNELLE
+    
 ### 2008 – Aujourd'hui | Architecte Logiciel et DevOps | Harmonie-Mutuelle
 Conception et réalisation de plateformes de développements JEE, Angular, Business Works (ESB) et SpringBoot (ainsi que SpringBatch) pour les développements d'applications intranet et Internet. Développement de Frameworks internes (SpringBoot & Angular). 
 Conception et réalisation de la plate-forme d'intégration continue basée sur Jenkins 2 (notamment avec les pipelines), Sonarqube, Artifactory et GitHub. 
