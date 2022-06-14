@@ -19,16 +19,24 @@ Afin de poursuivre cette quête infiniment passionnante, je recherche une entrep
     
 ## EXPERIENCE PROFESSIONNELLE
     
-### 2008 – Aujourd'hui | Architecte Logiciel et DevOps | Harmonie-Mutuelle
-Conception et réalisation de plateformes de développements JEE, Angular, Business Works (ESB) et SpringBoot (ainsi que SpringBatch) pour les développements d'applications intranet et Internet. Développement de Frameworks internes (SpringBoot & Angular). 
-Conception et réalisation de la plate-forme d'intégration continue basée sur Jenkins 2 (notamment avec les pipelines), Sonarqube, Artifactory et GitHub. 
+### 2022 – Aujourd'hui | Développeur Web | Wild Code School
 
-Conception d'architectures applicatives (SOA) sur les différents projets de développements ou d'intégration de progiciels.
+Hackathon 1 : Potes'agers
+Mai 2022 - 24 heures / 5 développeurs / Wild Code School
+Construction d'une application web de petites annonces dans l'univers du potager.
+CRUD en MySQL - Structure MVC
+Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap 
 
-Mise en place d'Openshift pour conteneuriser les applications déployées en production (partie CI / CD et conteneurisation des développements).
-Accompagnement des équipes production et des équipes projets dans la mise en place d'approche DevOps.
-
-Product Owner pour différents projets techniques ou applicatif (application interne de facilitation d'accès à la CI / CD, mise en place de socles, ...).
+Projet 2 : SerialSeries 
+Avril 2022 - 4 semaines / 4 développeurs / Wild Code School
+En méthodes agiles, construction d'une application web regroupant et présentant toutes les meilleures séries du moment. 
+CRUD en MySQL - Structure MVC
+Stack : PHP | JavaScript | HTML 5 | CSS 3 | Twig | Bootstrap
+    
+Projet 1 : CV Darth Vader
+Mars 2022 - 2 semaines / 3 développeurs / Wild Code School
+Création du CV de Darth Vader, mettant en valeur sa force et son côté le plus obscur. 
+Stack : PHP | HTML 5 | CSS 3 
 
 ### 2006 – 2008 | Ingénieur logiciel Java / JEE | Apside TOP
 Expert JEE en prestation chez Coface Services pour mise en place d'applications Web et montée en compétence des personnels internes. Rôle de tech lead au sein des équipes.
