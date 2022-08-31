@@ -1,17 +1,12 @@
 ### 👨 Whoami 
 
-Kévin ! 
-35 ans, passionné de sport.. et de code !<br>
-Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets retail et marketing produit, avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur.<br>
-Ma passion pour le développement web rythme mon quotidien.<br>
-Afin de poursuivre cette quête infiniment passionnante, je recherche une entreprise pour un stage de 6 mois à partir du 1er Août ou un contrat de professionnalisation d'un an qui débutera au mois de septembre.<br>
-
-🔍 A la recherche d'un stage ou d'une alternance en contrat de professionnalisation.<br>
-🚀 Décollage prévu en août pour le stage (jusqu'à 6 mois) ou en septembre pour l'alternance (12 mois).<br>
-🔄 Rythme alternance: 3 semaines en entreprise / 1 semaine en formation.<br>
-🌍 Zone de recherche : Bordeaux et ses environs.<br>
-🔧 Stack enseignée durant l'alternance : React - NodeJS - React Native - Flutter - Typescript - Docker<br>
-
+Je suis Kévin, j'ai 35 ans, originaire de Bayonne et domicilié sur le Bassin d'Arcachon.<br>
+Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets web, retail et marketing avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur.<br>
+Après plusieurs années d'expérience dans le commerce et le marketing, j'ai souhaité me reconvertir dans la création et la conception de sites web. <br>
+Une formation certifiante ainsi qu'une grande volonté m'ont permis d'acquérir rapidement les connaissances techniques requises.<br>
+Je suis à présent à la <strong>recherche d'un stage en tant que développeur back-end PHP</strong> pour une durée pouvant varier entre 3 et 6 mois.
+L'objectif de ce stage est de mettre en application mes acquis en participant au développement d'un ou plusieurs projets, aussi bien sur la partie front-end que back-end.
+Concernant mes attentes, j'aimerais avant tout rejoindre une équipe passionnée avec laquelle je pourrai continuer d'apprendre et d'évoluer.<br>
 <details>
     <summary>
         Mon CV<br>
