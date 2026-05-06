@@ -1,12 +1,9 @@
 ### 👨 Whoami 
 
-Je suis Kévin, j'ai 35 ans, originaire de Bayonne et domicilié sur le Bassin d'Arcachon.<br>
-Appliqué, patient et soucieux du détail, j'ai mené l'ensemble de mes projets web, retail et marketing avec rigueur et détermination, en privilégiant systématiquement l'expérience et la satisfaction de l'utilisateur.<br>
-Après plusieurs années d'expérience dans le commerce et le marketing, j'ai souhaité me reconvertir dans la création et la conception de sites web. <br>
-Une formation certifiante ainsi qu'une grande volonté m'ont permis d'acquérir rapidement les connaissances techniques requises.<br>
-Je suis à présent à la <strong>recherche d'un stage en tant que développeur back-end PHP</strong> pour une durée pouvant varier entre 3 et 6 mois.
-L'objectif de ce stage est de mettre en application mes acquis en participant au développement d'un ou plusieurs projets, aussi bien sur la partie front-end que back-end.
-Concernant mes attentes, j'aimerais avant tout rejoindre une équipe passionnée avec laquelle je pourrai continuer d'apprendre et d'évoluer.<br>
+Développeur full stack en poste, avec une sensibilité produit héritée du marketing.
+
+Aujourd’hui en poste, je participe au développement et à l’évolution d’applications web, aussi bien côté front-end que back-end.
+Je conçois et développe des applications web maintenables, en portant une attention particulière à l’expérience utilisateur.<br>
 <details>
     <summary>
         Mon CV<br>
